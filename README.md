@@ -1,2 +1,2 @@
-# Calculadora-HTL-CSS-e-Javascript
-Calculadora em HTL e CSS JS
+# Calculadora-HTML-CSS-e-Javascript
+Calculadora em HTML e CSS JS
